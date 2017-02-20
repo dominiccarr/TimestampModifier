@@ -1,0 +1,1 @@
+This project is a simple solution to modify timestamps of a directory and all it's subdirectories, to a random distribution over a single day.
